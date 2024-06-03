@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buffer_bytes_y_esas_madres", "buffer_bytes_y_esas_madres\buffer_bytes_y_esas_madres.csproj", "{3BA8D873-7035-49FA-B651-61B0B5E39EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA8D873-7035-49FA-B651-61B0B5E39EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA8D873-7035-49FA-B651-61B0B5E39EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA8D873-7035-49FA-B651-61B0B5E39EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA8D873-7035-49FA-B651-61B0B5E39EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940AB2D9-3E27-41CB-8185-8648F40D213A}
+	EndGlobalSection
+EndGlobal
